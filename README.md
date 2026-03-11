@@ -69,7 +69,7 @@ I'm a passionate full-stack developer focused on **building production-grade web
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimarkzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimarkzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhimarkzz&theme=dark&hide_border=true)
 
