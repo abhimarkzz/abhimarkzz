@@ -1,18 +1,17 @@
 # Hi there 👋 I'm Abhishek | Full-Stack Developer & Tech Educator
 
-> Building scalable web applications, mentoring junior developers, and exploring modern technologies
+> Building scalable web applications and exploring modern technologies
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer with expertise in **building production-grade web applications** and **guiding developers** through their learning journey. I combine hands-on development experience with a genuine passion for teaching and knowledge sharing.
+I'm a passionate full-stack developer focused on **building production-grade web applications** and continuously improving my skills. I'm dedicated to mastering modern web technologies, open-source projects and delivering high-quality solutions.
 
 - 🚀 **Building:** Advanced full-stack web applications with modern tech stacks
-- 🎓 **Teaching:** Digital skills and programming fundamentals to junior developers
 - 🔧 **Specializing in:** Full-stack development, UI/UX design, and API integrations
 - 📚 **Currently Learning:** Data Structures & Algorithms, Advanced JavaScript, System Design, Modern Backend Frameworks
-- 💼 **Open to:** Full-stack projects, SaaS tools, web automation, and digital learning platforms
+- 💼 **Open to:** Full-stack projects, SaaS tools, Web automation and collaborative opportunities
 
 ---
 
@@ -105,7 +104,5 @@ I'd love to collaborate, discuss tech, or help with your projects. Reach out thr
 <div align="center">
 
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
-
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=abhimarkzz&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
